@@ -82,3 +82,4 @@ gulp.task('serve', function() {
   gulp.watch('src/images/*.*',['image']);
   gulp.watch('src/*.html',['html']);
 });
+// 测试
